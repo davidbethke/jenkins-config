@@ -21,6 +21,8 @@ python --version
 pytest --version
 whoami
 curl http://jenkins:8080/
+git clone https://github.com/davidbethke/simple_pytest.git
+cd simple_pytest; pytest
 </command>
     </hudson.tasks.Shell>
   </builders>
